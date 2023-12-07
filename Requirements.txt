@@ -1,0 +1,23 @@
+feedparser==6.0.10
+snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git@0d824ab77334ed4ab6250e5e491171afeccfb298
+statsmodels==0.13.2
+streamlit=-1.23.1
+streamlit-camera-input-live==0.2.0
+streamlit-card==0.0.5
+streamlit-embedcode==0.1.2
+streamlit-faker==0.0.2
+streamlit-image-coordinates==0.1.5
+streamlit-keyup==0.2.0
+streamlit-toggle-switch==1.0.2
+streamlit-vertical-slider==1.0.2
+vader Sentiment==3.3.2
+yfinance==0.2.18
+joblib==1.1.0
+cloudpickle==2.0.0
+pandas==1.4.4
+plotly--5.9.0
+matplotlib==3.5.2
+st-annotated-text==4.0.0
+streamlit-extras==0.2.7
+fsspec--2022.7.1
+scikit-learn==1.0.2
